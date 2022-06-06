@@ -1,0 +1,15 @@
+.q1{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    gap: 10px;
+    width:70%;
+    margin: auto;
+    
+}
+.q2{
+    border: 1px solid;
+    font-weight: bold;
+}
+p{
+    font-size: 10px;
+}
